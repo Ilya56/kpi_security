@@ -1,0 +1,7 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "dependencies": {
+    "textract": "^2.5.0"
+  }
+}
